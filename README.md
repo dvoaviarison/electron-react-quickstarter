@@ -1,2 +1,29 @@
-# electron-react-ts
-Ultimate boilerplate for cross platform desktop app using CRA and Electron - Typescript
+# CRA Typescript with electron - Ultimate boilerplate
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start` or `yarn start-win`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+### `yarn package` or `yarn package-win`
+
+Generate packaged app for production to the `dist` folder. The app will be runnable as a standalone desktop application.
